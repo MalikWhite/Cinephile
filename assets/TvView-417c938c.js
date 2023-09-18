@@ -1,0 +1,1 @@
+import{_ as e}from"./MT-cf80aad1.js";import{o as t,c as a,a as o}from"./index-9d58c6ea.js";import"./MoviesItem-c5cf47d0.js";const s={class:"main"},p={__name:"TvView",setup(c){return(r,_)=>(t(),a("main",s,[o(e,{type:"tv"})]))}};export{p as default};
